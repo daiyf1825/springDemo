@@ -18,7 +18,7 @@ public class IPUtil {
      */
     public static final String LOCAL_IP;
     /**
-     * 系统的本地服务器名
+     * 系统的本地服务器名字
      */
     public static final String HOST_NAME;
     private static final Logger log = LoggerFactory.getLogger(IPUtil.class);
